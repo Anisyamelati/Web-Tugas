@@ -1,0 +1,5 @@
+NIM = 1122030018
+Program Studi	= D3 Komputer Grafis (A.Md.Ds)
+Homebase Kampus	= Universitas STEKOM Kendal Kota
+Kelompok Kelas	= KG.D3.P.22.0.KND
++6283869932851 
